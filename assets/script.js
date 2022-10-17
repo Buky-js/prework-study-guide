@@ -8,7 +8,7 @@ for(x=0; x<topics.length; x++){
 }
 
 function selectTopic(){
-    
+
 if (randomTopic==='HTML'){
     console.log("Let's study HTML!");
 }else if (randomTopic === 'CSS') {
